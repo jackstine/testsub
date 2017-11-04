@@ -14,6 +14,9 @@ def mult(a,b):
 #from sub mod
 def helper(a):
 	a.helper()
+#from main
+def other(a):
+	a.other()
 
 
 print("Hello World")
