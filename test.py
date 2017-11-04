@@ -11,6 +11,10 @@ def div(a,b):
 def mult(a,b):
 	return a * b
 
+#from main
+def other(a):
+	a.other()
+
 
 print("Hello World")
 print(sum("Hello ", "World!"));
