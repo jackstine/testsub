@@ -3,5 +3,6 @@ def sum(a, b):
 
 
 print("Hello World")
+print(sum("Hello ", "World!"));
 
 
