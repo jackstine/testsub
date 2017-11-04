@@ -11,6 +11,10 @@ def div(a,b):
 def mult(a,b):
 	return a * b
 
+#from sub mod
+def helper(a):
+	a.helper()
+
 
 print("Hello World")
 print(sum("Hello ", "World!"));
